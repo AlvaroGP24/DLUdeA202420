@@ -1,0 +1,3 @@
+.venv
+flickr8k_dataset/*
+.DS_Store
