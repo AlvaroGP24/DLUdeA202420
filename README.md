@@ -2,6 +2,7 @@
 
 This project implements an image captioning system using deep learning techniques and the Flickr8k dataset. The system generates descriptive captions for images by combining computer vision and natural language processing. Two models are explored: a **baseline simple model** and a **more advanced model with an attention mechanism**. The project uses TensorFlow/Keras for model implementation and evaluation metrics such as BLEU scores to assess captioning performance.
 
+To see more details watch the video tutorial: Link
 ---
 
 ## **Run Locally**
@@ -17,8 +18,8 @@ cd <repo-name>
 ### **2. Create a Virtual Environment**
 Create a Python virtual environment to isolate the dependencies:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 ### **3. Install Dependencies**
