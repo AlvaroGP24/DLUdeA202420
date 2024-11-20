@@ -1,5 +1,3 @@
-# Image Captioning Project using Flickr8k
-
 ## **Image Captioning with Flickr8k Dataset**
 
 This project implements an image captioning system using deep learning techniques and the Flickr8k dataset. The system generates descriptive captions for images by combining computer vision and natural language processing. Two models are explored: a **baseline simple model** and a **more advanced model with an attention mechanism**. The project uses TensorFlow/Keras for model implementation and evaluation metrics such as BLEU scores to assess captioning performance.
