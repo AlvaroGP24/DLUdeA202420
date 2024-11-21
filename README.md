@@ -31,6 +31,6 @@ pip install -r requirements.txt
 ---
 
 ### **Requirements**
-- Python 3.10.2
+- Python 3.10.12
 - TensorFlow 2.x
 - Additional dependencies listed in `requirements.txt`
